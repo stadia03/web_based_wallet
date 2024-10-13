@@ -1,3 +1,12 @@
+#Simple V1 UI
+https://web-based-wallet-beta.vercel.app/
+![image](https://github.com/user-attachments/assets/8faccf29-2ff2-459f-bd4b-91fd50938040)
+
+
+
+
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
